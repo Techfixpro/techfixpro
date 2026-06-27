@@ -41,6 +41,22 @@ nav a:hover{
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
+}.hero-content{
+    max-width:900px;
+    padding:30px;
+}
+
+.hero h1{
+    font-size:64px;
+    color:#ffffff;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    text-shadow:0 4px 25px rgba(0,0,0,.9);
+}
+
+.hero p{
+    font-size:24px;
+    color:#ffffff;
 }
 
 .bottoni{
