@@ -153,9 +153,16 @@ footer{
 }.hero{
     background:#061b14;
     border-bottom:3px solid #00d26a;
+}.hero h1{
+    color:#00d26a;
+    font-size:56px;
+    text-transform:uppercase;
+    letter-spacing:3px;
+    text-shadow:
+        0 0 10px #00d26a,
+        0 0 20px #00d26a,
+        0 0 40px #00d26a;
 }
 
-.hero h1{
-    color:#00d26a;
-    font-size:48px;
+
 }
