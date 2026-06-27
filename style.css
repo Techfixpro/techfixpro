@@ -162,6 +162,8 @@ footer{
         0 0 10px #00d26a,
         0 0 20px #00d26a,
         0 0 40px #00d26a;
+}.hero{
+    background:red !important;
 }
 }
 
