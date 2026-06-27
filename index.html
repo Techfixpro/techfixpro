@@ -7,7 +7,6 @@ index.html<!DOCTYPE html>
 <title>TechFixPro | Riparazione Smartphone e Computer</title>
 
 <style>
-
 *{
 margin:0;
 padding:0;
@@ -51,10 +50,39 @@ margin-bottom:20px;
 .hero p{
 font-size:20px;
 max-width:700px;
-margin:auto;
+margin:20px auto 40px;
 line-height:1.6;
 }
 
+.bottoni{
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+}
+
+.btn{
+padding:15px 30px;
+text-decoration:none;
+font-size:18px;
+font-weight:bold;
+border-radius:10px;
+transition:0.3s;
+}
+
+.whatsapp{
+background:#25D366;
+color:white;
+}
+
+.telefono{
+background:#007BFF;
+color:white;
+}
+
+.btn:hover{
+transform:scale(1.05);
+}
 </style>
 
 </head>
@@ -62,11 +90,8 @@ line-height:1.6;
 <body>
 
 <header>
-
 <h1>TechFixPro</h1>
-
 <p>Riparazione Smartphone • Tablet • Notebook • PC</p>
-
 </header>
 
 <section class="hero">
@@ -77,6 +102,12 @@ line-height:1.6;
 Riparazioni rapide, diagnosi accurate e componenti di qualità.
 Siamo ad Avezzano e ti aiutiamo a riportare in vita i tuoi dispositivi.
 </p>
+
+<div class="bottoni">
+<a class="btn whatsapp" href="https://wa.me/393514004698">📲 WhatsApp</a>
+
+<a class="btn telefono" href="tel:+393514004698">📞 Chiama ora</a>
+</div>
 
 </section>
 
