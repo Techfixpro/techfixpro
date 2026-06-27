@@ -1,0 +1,108 @@
+
+<!-- saved from url=(0040)https://techfixpro.github.io/techfixpro/ -->
+<html lang="it"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>index.html
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TechFixPro | Riparazione Smartphone e Computer</title>
+
+
+
+<a class="whatsapp-fisso" href="https://wa.me/393514004698">📲 WhatsApp</a>
+
+
+<header id="home">
+<img src="./hero_files/logo.png" alt="Logo TechFixPro">
+<p>Riparazione Smartphone • Tablet • Notebook • PC</p>
+</header>
+<link rel="stylesheet" href="./hero_files/style.css">
+<nav>
+<a href="https://techfixpro.github.io/techfixpro/#home">Home</a>
+<a href="https://techfixpro.github.io/techfixpro/#servizi">Servizi</a>
+<a href="https://techfixpro.github.io/techfixpro/#perche">Perché noi</a>
+<a href="https://techfixpro.github.io/techfixpro/#contatti">Contatti</a>
+</nav>
+
+<section class="hero">
+<h1>Assistenza Tecnica Professionale</h1>
+<p>
+Riparazioni rapide, diagnosi accurate e componenti di qualità.
+Ripariamo iPhone, Samsung, Xiaomi, Oppo, Huawei, Motorola e altri marchi.
+</p>
+
+<div class="bottoni">
+<a class="btn whatsapp" href="https://wa.me/393514004698">📲 WhatsApp</a>
+<a class="btn telefono" href="tel:+393514004698">📞 Chiama ora</a>
+</div>
+</section>
+
+<section id="servizi">
+<h2>I nostri servizi</h2>
+
+<div class="griglia">
+<div class="card">
+<h3>📱 Sostituzione display</h3>
+<p>Riparazione schermi rotti per smartphone e tablet.</p>
+</div>
+
+<div class="card">
+<h3>🔋 Sostituzione batterie</h3>
+<p>Batterie nuove per migliorare durata e prestazioni.</p>
+</div>
+
+<div class="card">
+<h3>🔌 Connettori di ricarica</h3>
+<p>Riparazione problemi di carica e porte danneggiate.</p>
+</div>
+
+<div class="card">
+<h3>💻 Notebook e PC</h3>
+<p>Assistenza hardware e software per computer.</p>
+</div>
+
+<div class="card">
+<h3>💾 Recupero dati</h3>
+<p>Supporto per recuperare foto, documenti e file importanti.</p>
+</div>
+
+<div class="card">
+<h3>⚙️ Diagnosi guasti</h3>
+<p>Controllo tecnico per individuare il problema.</p>
+</div>
+</div>
+</section>
+
+<section id="perche">
+<h2>Perché scegliere TechFixPro</h2>
+
+<div class="griglia">
+<div class="card">
+<h3>⏱️ Diagnosi rapida</h3>
+<p>Valutiamo il problema nel minor tempo possibile.</p>
+</div>
+
+<div class="card">
+<h3>🛡️ Garanzia</h3>
+<p>Le riparazioni vengono eseguite con attenzione e serietà.</p>
+</div>
+
+<div class="card">
+<h3>📍 Ad Avezzano</h3>
+<p>Siamo in Via Momigliano 19, facilmente raggiungibili.</p>
+</div>
+</div>
+</section>
+
+<footer id="contatti">
+<h2>Contatti</h2>
+<p><strong>TechFixPro</strong></p>
+<p>📍 Via Momigliano 19, Avezzano AQ</p>
+<p>📞 351 400 4698</p>
+<p>✉️ infotechfixpro@gmail.com</p>
+<p>🕘 9:00-13:00 / 15:00-19:00 — Chiuso domenica</p>
+</footer>
+
+
+
+</body></html>
