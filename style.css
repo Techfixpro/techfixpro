@@ -132,4 +132,22 @@ footer{
 .btn:hover{
     transform:scale(1.05);
     box-shadow:0 0 20px rgba(0,210,106,0.35);
+}.hero{
+    background:
+    linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85)),
+    radial-gradient(circle at center, rgba(0,210,106,0.25), transparent 45%);
+    min-height:420px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.hero h1{
+    color:#ffffff;
+    text-shadow:0 0 20px rgba(0,210,106,0.5);
+}
+
+.hero p{
+    color:#e5e5e5;
 }
