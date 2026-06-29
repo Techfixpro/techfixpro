@@ -10,12 +10,18 @@ body{
 }
 
 .topbar{
-  background:#050505;
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
   display:flex;
   justify-content:space-between;
   align-items:center;
-  padding:15px 35px;
-  border-bottom:3px solid #00d26a;
+  padding:18px 40px;
+  background:rgba(0,0,0,.35);
+  backdrop-filter:blur(12px);
+  border-bottom:1px solid rgba(255,255,255,.08);
+  z-index:1000;
 }
 
 .topbar img{
